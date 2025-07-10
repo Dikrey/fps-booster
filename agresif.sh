@@ -5,7 +5,6 @@ echo "▶ Mode: Aggressive"
 echo "▶ Requires: ROOT access"
 sleep 1
 
-# Get info
 DEVICE=$(getprop ro.product.model)
 ANDROID=$(getprop ro.build.version.release)
 KERNEL=$(uname -r)
@@ -33,7 +32,6 @@ settings put secure max_refresh_rate 120
 settings put secure match_content_frame_rate 1
 settings put secure refresh_rate_mode 2
 
-# Tambahan setprop
 setprop debug.hwui.fpslimit 120
 setprop debug.refresh_rate.max_fps 120
 setprop debug.refresh_rate.min_fps 120
@@ -50,7 +48,6 @@ echo ""
 echo "⚡ Disabling thermal & enabling performance mode..."
 sleep 1
 
-# Force thermal unlocked (root only)
 cmd thermalservice override-status 0
 cmd power set-fixed-performance-mode-enabled true
 
