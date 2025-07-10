@@ -58,7 +58,7 @@ Mengembalikan semua pengaturan sistem ke kondisi normal:
 # Aktifkan booster (pilih sesuai mode)
 sh safemode.sh
 # atau
-sh agresif.sh   # hanya untuk root
+sh agresif.sh   # super booster
 
 # Reset
 sh reset.sh
