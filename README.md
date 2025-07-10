@@ -70,7 +70,7 @@ or
 
 sh /storage/emulated/0/fps-booster/agresif.sh
 
-Uninstallation Command:
+# Uninstallation Command:
 
 sh /sdcard/fps-booster/reset.sh
 
