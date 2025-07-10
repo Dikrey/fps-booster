@@ -1,6 +1,6 @@
 # 🚀 Visualcodepo Android 120FPS Boost Toolkit
 
-Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android secara maksimal dengan mengoptimalkan refresh rate (hingga 120Hz), meningkatkan mode performa, serta memberikan kontrol penuh terhadap sistem (khusus perangkat ROOT). Disediakan juga mode aman untuk pengguna NON-ROOT serta script reset untuk mengembalikan ke kondisi awal.
+Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android secara maksimal dengan mengoptimalkan refresh rate (hingga 120Hz), meningkatkan mode performa, serta memberikan kontrol penuh terhadap sistem (khusus perangkat support). Disediakan juga mode aman untuk pengguna NON-ROOT serta script reset untuk mengembalikan ke kondisi awal.
 
 ---
 
@@ -8,7 +8,7 @@ Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android sec
 
 - ✅ Boost Refresh Rate hingga 120Hz
 - ✅ Performa maksimal di semua aplikasi (Game Mode)
-- ✅ Penghapusan limitasi thermal (ROOT)
+- ✅ Penghapusan limitasi thermal 
 - ✅ Pengaturan sistem seperti V-Sync, SF Boost (AGRESIF)
 - 🟢 Disediakan juga reset script untuk restore ke default
 
@@ -53,7 +53,7 @@ Mengembalikan semua pengaturan sistem ke kondisi normal:
 
 ## 🔧 Cara Penggunaan
 
-### 1. ADB Shell / Termux
+### 1. ADB Shell / Termux / Brevent
 ```bash
 # Aktifkan booster (pilih sesuai mode)
 sh safemode.sh
