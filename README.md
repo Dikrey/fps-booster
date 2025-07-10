@@ -62,3 +62,19 @@ sh agresif.sh   # super booster
 
 # Reset
 sh reset.sh
+
+#Brevent
+sh /sdcard/fps-booster/agresif.sh
+
+or
+
+sh /storage/emulated/0/fps-booster/agresif.sh
+
+Uninstallation Command:
+
+sh /sdcard/fps-booster/reset.sh
+
+or
+
+sh /storage/emulated/0/fps-booster/reset.sh
+
