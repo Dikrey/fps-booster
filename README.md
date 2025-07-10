@@ -10,13 +10,13 @@ Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android sec
 - ✅ Performa maksimal di semua aplikasi (Game Mode)
 - ✅ Penghapusan limitasi thermal (ROOT)
 - ✅ Pengaturan sistem seperti V-Sync, SF Boost (AGRESIF)
-- ❌ Disediakan juga reset script untuk restore ke default
+- 🟢 Disediakan juga reset script untuk restore ke default
 
 ---
 
 ## ⚠️ PERINGATAN
 
-> Script agresif hanya untuk pengguna berpengalaman dengan perangkat yang sudah **di-root**. Gunakan dengan tanggung jawab dan pahami risiko overheat, battery drain, atau sistem tidak stabil.
+> Script agresif hanya untuk pengguna berpengalaman dengan perangkat yang sudah **support**. Gunakan dengan tanggung jawab dan pahami risiko overheat, battery drain, atau sistem tidak stabil.
 
 ---
 
@@ -32,7 +32,7 @@ Mengubah banyak parameter sistem menggunakan `setprop`, `thermalservice`, dan `c
 
 📌 **Syarat:** Perangkat support 120Hz (optional) 
 
-### ✅ 2. `safe.sh` - Mode Aman (Non-Root Friendly)
+### ✅ 2. `safemode.sh` - Mode Aman (Non-Root Friendly)
 
 Hanya menggunakan `settings` dan `cmd` yang tidak membutuhkan akses root, cocok untuk:
 - Menyesuaikan refresh rate ke 120Hz (jika didukung)
@@ -56,7 +56,7 @@ Mengembalikan semua pengaturan sistem ke kondisi normal:
 ### 1. ADB Shell / Termux
 ```bash
 # Aktifkan booster (pilih sesuai mode)
-sh safe.sh
+sh safemode.sh
 # atau
 sh agresif.sh   # hanya untuk root
 
