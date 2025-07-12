@@ -9,7 +9,7 @@ Skrip ini adalah alat tweak sistem yang sangat agresif bagi pengguna yang ingin 
 ---
 
 
-# 📦 Fitur Utama
+# 📦 Fitur Utama Agresif 
 
  * ✅ Boost Refresh Rate hingga 120Hz: Mengoptimalkan tampilan layar untuk pengalaman visual yang lebih mulus dan responsif.
  * ✅ Performa Maksimal di Semua Aplikasi (Mode Game): Menerapkan profil performa tinggi pada setiap aplikasi, membuatnya berjalan seolah-olah sedang bermain game dengan FPS 120.
@@ -19,7 +19,7 @@ Skrip ini adalah alat tweak sistem yang sangat agresif bagi pengguna yang ingin 
  * ✅ Optimalisasi Manajemen Daya CPU: Menyesuaikan ambang batas CPU untuk memungkinkan performa puncak yang lebih berkelanjutan.
  * ✅ Manajemen Aktivitas & Aplikasi: Memastikan aplikasi tidak masuk mode standby dan langsung menutup aktivitas yang tidak digunakan untuk membebaskan RAM lebih cepat.
  * 🟢 Disediakan juga Reset Script untuk Restore ke Default: Ini adalah fitur penting yang memungkinkan pengguna mengembalikan pengaturan sistem ke kondisi semula, memastikan perangkat tidak terjebak dalam mode performa tinggi yang mungkin tidak diinginkan secara permanen.
- * 
+ 
 ---
 
 ## ⚠️ PERINGATAN
