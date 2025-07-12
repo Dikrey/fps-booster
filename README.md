@@ -11,7 +11,7 @@ Skrip ini adalah alat tweak sistem yang sangat agresif bagi pengguna yang ingin 
 
 # 📦 Fitur Utama
 
-✅ Boost Refresh Rate hingga 120Hz: Mengoptimalkan tampilan layar untuk pengalaman visual yang lebih mulus dan responsif.
+ * ✅ Boost Refresh Rate hingga 120Hz: Mengoptimalkan tampilan layar untuk pengalaman visual yang lebih mulus dan responsif.
  * ✅ Performa Maksimal di Semua Aplikasi (Mode Game): Menerapkan profil performa tinggi pada setiap aplikasi, membuatnya berjalan seolah-olah sedang bermain game dengan FPS 120.
  * ✅ Penghapusan Limitasi Termal: Menonaktifkan pembatasan performa akibat panas untuk menjaga kinerja CPU/GPU tetap tinggi.
  * ✅ Pengaturan Sistem Agresif: Melakukan tweak pada V-Sync, SurfaceFlinger (SF Boost), dan parameter rendering grafis lainnya untuk mengurangi latensi dan meningkatkan responsivitas.
