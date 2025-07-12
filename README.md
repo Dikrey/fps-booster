@@ -8,14 +8,18 @@ Skrip ini adalah alat tweak sistem yang sangat agresif bagi pengguna yang ingin 
 
 ---
 
-## 📦 Fitur Utama
 
-- ✅ Boost Refresh Rate hingga 120Hz
-- ✅ Performa maksimal di semua aplikasi (Game Mode)
-- ✅ Penghapusan limitasi thermal 
-- ✅ Pengaturan sistem seperti V-Sync, SF Boost (AGRESIF)
-- 🟢 Disediakan juga reset script untuk restore ke default
+# 📦 Fitur Utama
 
+✅ Boost Refresh Rate hingga 120Hz: Mengoptimalkan tampilan layar untuk pengalaman visual yang lebih mulus dan responsif.
+ * ✅ Performa Maksimal di Semua Aplikasi (Mode Game): Menerapkan profil performa tinggi pada setiap aplikasi, membuatnya berjalan seolah-olah sedang bermain game dengan FPS 120.
+ * ✅ Penghapusan Limitasi Termal: Menonaktifkan pembatasan performa akibat panas untuk menjaga kinerja CPU/GPU tetap tinggi.
+ * ✅ Pengaturan Sistem Agresif: Melakukan tweak pada V-Sync, SurfaceFlinger (SF Boost), dan parameter rendering grafis lainnya untuk mengurangi latensi dan meningkatkan responsivitas.
+ * ✅ Mematikan Animasi UI: Menghilangkan animasi transisi, jendela, dan animator untuk antarmuka yang terasa lebih cepat.
+ * ✅ Optimalisasi Manajemen Daya CPU: Menyesuaikan ambang batas CPU untuk memungkinkan performa puncak yang lebih berkelanjutan.
+ * ✅ Manajemen Aktivitas & Aplikasi: Memastikan aplikasi tidak masuk mode standby dan langsung menutup aktivitas yang tidak digunakan untuk membebaskan RAM lebih cepat.
+ * 🟢 Disediakan juga Reset Script untuk Restore ke Default: Ini adalah fitur penting yang memungkinkan pengguna mengembalikan pengaturan sistem ke kondisi semula, memastikan perangkat tidak terjebak dalam mode performa tinggi yang mungkin tidak diinginkan secara permanen.
+ * 
 ---
 
 ## ⚠️ PERINGATAN
