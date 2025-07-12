@@ -22,17 +22,17 @@ settings put system thermal_limit_refresh_rate 0
 settings put secure max_refresh_rate 60
 settings put secure refresh_rate_mode 1
 settings put secure match_content_frame_rate 0
-settings put global power_check_max_cpu_1 75
-settings put global power_check_max_cpu_2 75
-settings put global power_check_max_cpu_3 50
-settings put global power_check_max_cpu_4 50
-settings put global always_finish_activities 1
+settings delete global power_check_max_cpu_1
+settings delete global power_check_max_cpu_2
+settings delete global power_check_max_cpu_3
+settings delete global power_check_max_cpu_4
+settings put global always_finish_activities 0
 settings put secure game_auto_tempature 0
-settings put global sem_enhanced_cpu_responsiveness 1
-settings put global animator_duration_scale 0.0
-settings put global transition_animation_scale 0.0
-settings put global window_animation_scale 0.0
-settings put global app_standby_enabled 0
+settings put global sem_enhanced_cpu_responsiveness 0
+settings put global animator_duration_scale 1.0
+settings put global transition_animation_scale 1.0
+settings put global window_animation_scale 1.0
+settings put global app_standby_enabled 1
 
 setprop debug.hwui.fpslimit 60
 setprop debug.refresh_rate.max_fps 60
