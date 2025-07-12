@@ -4,7 +4,8 @@ Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android sec
 
 ---
 
-Skrip ini adalah alat tweak sistem yang sangat agresif bagi pengguna yang ingin memeras setiap tetes performa dari perangkat Android mereka (misalnya, untuk gaming atau benchmarking), dengan risiko mengorbankan masa pakai baterai, peningkatan panas, dan potensi ketidakstabilan sistem. Gunakan dengan risiko Anda sendiri.
+# Warning ⚠️☢️
+> Skrip ini adalah alat tweak sistem yang sangat agresif bagi pengguna yang ingin memeras setiap tetes performa dari perangkat Android mereka (misalnya, untuk gaming atau benchmarking), dengan risiko mengorbankan masa pakai baterai, peningkatan panas, dan potensi ketidakstabilan sistem. Gunakan dengan risiko Anda sendiri.
 
 ---
 
