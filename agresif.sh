@@ -9,7 +9,7 @@ echo "
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝"
 echo "[🔥 𝗩𝗶𝘀𝘂𝗮𝗹𝗰𝗼𝗱𝗲𝗽𝗼 𝗣𝗼𝘄𝗲𝗿 𝗕𝗼𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗮𝘁𝗲𝗱🟢]"
 echo "▶ Mode: Aggressive"
-echo "▶ Required: ROOT access"
+echo "▶ Required: ROOT access optional"
 echo "▶ Developer: Raihan_official0307
 sleep 1
 
@@ -64,6 +64,7 @@ setprop debug.performance.tuning 1
 setprop debug.hwui.fps_devisor 1
 setprop debug.egl.hw 1
 setprop debug.sf.hw 1
+
 setprop debug.gr.swapinterval 1
 setprop debug.egl.swapinterval 1
 setprop debug.renderengine.backend opengles
