@@ -64,6 +64,36 @@ setprop debug.performance.tuning 1
 setprop debug.hwui.fps_devisor 1
 setprop debug.egl.hw 1
 setprop debug.sf.hw 1
+setprop debug.gr.swapinterval 1
+setprop debug.egl.swapinterval 1
+setprop debug.renderengine.backend opengles
+setprop debug.renderengine.backend vulkanthreaded
+setprop debug.angle.overlay FPS:vulkan*PipelineCache*
+setprop debug.javafx.animation.framerate 120
+setprop debug.systemuicompilerfilter speed
+setprop debug.app.performance_restricted false
+setprop debug.gr.numframebuffers 3
+setprop debug.egl.buffcount 4
+setprop debug.sf.set_idle_timer_ms 30
+setprop debug.sf.disable_backpressure 1
+setprop debug.sf.latch_unsignaled 1
+setprop debug.sf.enable_hwc_vds 1
+setprop debug.sf.early_phase_offset_ns 500000
+setprop debug.sf.early_app_phase_offset_ns 500000
+setprop debug.sf.early_gl_phase_offset_ns 3000000
+setprop debug.sf.early_gl_app_phase_offset_ns 15000000
+setprop debug.sf.high_fps_early_phase_offset_ns 6100000
+setprop debug.sf.high_fps_late_sf_phase_offset_ns 8000000
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 9000000
+setprop debug.sf.high_fps_late_app_phase_offset_ns 1000000
+setprop debug.sf.high_fps_late_sf_phase_offset_ns 8000000
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 9000000
+setprop debug.sf.phase_offset_threshold_for_next_vsync_ns 6100000
+sleep 2
+setprop debug.sf.showfps 0
+setprop debug.sf.showcpu 0
+setprop debug.sf.showbackground 0
+setprop debug.sf.shoupdates 0
 
 
 echo "✅ Performance boost applied!"
