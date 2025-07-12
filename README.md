@@ -1,6 +1,6 @@
-# 🚀 Visualcodepo Android 120Hz Boost Toolkit
+# 🚀 Visualcodepo Android Performance Boost Toolkit
 
-Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android secara maksimal dengan mengoptimalkan refresh rate (hingga 120Hz), meningkatkan mode performa, serta memberikan kontrol penuh terhadap sistem (khusus perangkat support). Disediakan juga mode aman untuk pengguna NON-ROOT serta script reset untuk mengembalikan ke kondisi awal.
+Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android secara maksimal, meningkatkan mode performa, serta memberikan kontrol penuh terhadap sistem (khusus perangkat support). Disediakan juga mode aman untuk pengguna NON-ROOT serta script reset untuk mengembalikan ke kondisi awal.
 
 ---
 
@@ -29,6 +29,7 @@ Mengubah banyak parameter sistem menggunakan `setprop`, `thermalservice`, dan `c
 - Nonaktifkan V-Sync
 - Force performance mode
 - Game boosting otomatis untuk semua aplikasi
+- Dll
 
 📌 **Syarat:** Perangkat support 120Hz (optional) 
 
