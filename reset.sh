@@ -32,6 +32,10 @@ setprop debug.display.allow_non_native_refresh_rate_override false
 setprop debug.display.render_frame_rate_is_physical_refresh_rate false
 setprop debug.sf.no_hw_vsync 0
 setprop debug.hwui.disable_vsync false
+setprop debug.performance.tuning 0 
+setprop debug.hwui.fps_devisor 0
+setprop debug.egl.hw 0
+setprop debug.sf.hw 0
 
 echo "✅ Refresh rate dan performa di-reset"
 
