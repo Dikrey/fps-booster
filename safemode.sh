@@ -36,7 +36,13 @@ settings put system min_refresh_rate 60
 settings put secure user_refresh_rate 120
 settings put secure max_refresh_rate 120
 
+
 settings put secure match_content_frame_rate 1
+
+setprop debug.performance.tuning 1 
+setprop debug.hwui.fps_devisor 1
+setprop debug.egl.hw 1
+setprop debug.sf.hw 1
 
 for pkg in $(pm list packages -3 | cut -f2 -d:); do
     cmd game set --mode performance --fps 120 $pkg
