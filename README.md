@@ -1,6 +1,8 @@
 # 🚀 Visualcodepo Android Performance Boost Toolkit
 
 Toolkit ini berisi kumpulan script shell untuk meningkatkan performa Android secara maksimal, meningkatkan mode performa, serta memberikan kontrol penuh terhadap sistem (khusus perangkat support). Disediakan juga mode aman untuk pengguna NON-ROOT serta script reset untuk mengembalikan ke kondisi awal.
+---
+Skrip ini adalah alat tweak sistem yang sangat agresif bagi pengguna yang ingin memeras setiap tetes performa dari perangkat Android mereka (misalnya, untuk gaming atau benchmarking), dengan risiko mengorbankan masa pakai baterai, peningkatan panas, dan potensi ketidakstabilan sistem. Gunakan dengan risiko Anda sendiri.
 
 ---
 
