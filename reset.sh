@@ -9,7 +9,7 @@ echo "
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝"
 echo "[🔁 RESET MODE — Visualcodepo Default Restore]"
 echo "▶ Mengembalikan semua pengaturan sistem ke default."
-echo "▶ Bukan mengembalikan masalalu bersamanya."
+echo "▶ Bukan mengembalikan kenangan bersamanya."
 sleep 1
 
 echo ""
