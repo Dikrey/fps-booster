@@ -9,7 +9,8 @@ echo "
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝"
 echo "[🔥 𝗩𝗶𝘀𝘂𝗮𝗹𝗰𝗼𝗱𝗲𝗽𝗼 𝗣𝗼𝘄𝗲𝗿 𝗕𝗼𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗮𝘁𝗲𝗱🟢]"
 echo "▶ Mode: Aggressive"
-echo "▶ Requires: ROOT access"
+echo "▶ Required: ROOT access"
+echo "▶ Developer: Raihan_official0307
 sleep 1
 
 DEVICE=$(getprop ro.product.model)
@@ -48,8 +49,13 @@ setprop debug.display.render_frame_rate_is_physical_refresh_rate true
 setprop debug.display.allow_non_native_refresh_rate_override true
 setprop debug.sf.no_hw_vsync 1
 setprop debug.hwui.disable_vsync true
+setprop debug.performance.tuning 1 
+setprop debug.hwui.fps_devisor 1
+setprop debug.egl.hw 1
+setprop debug.sf.hw 1
 
-echo "✅ Refresh rate boost applied!"
+
+echo "✅ Performance boost applied!"
 
 echo ""
 echo "⚡ Disabling thermal & enabling performance mode..."
